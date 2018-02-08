@@ -1,4 +1,4 @@
-package org.frytki.lewiksoundboard;
+package org.frytki.lewik;
 
 import org.junit.Test;
 

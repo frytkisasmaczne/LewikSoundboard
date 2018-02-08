@@ -1,4 +1,4 @@
-package org.frytki.lewiksoundboard;
+package org.frytki.lewik;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

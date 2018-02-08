@@ -1,4 +1,4 @@
-package org.frytki.lewiksoundboard;
+package org.frytki.lewik;
 
 import android.media.AudioAttributes;
 import android.media.AudioManager;
