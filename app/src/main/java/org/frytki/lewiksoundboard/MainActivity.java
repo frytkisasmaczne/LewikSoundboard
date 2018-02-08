@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                                       if(alreadyShownToasts == false) {
                                           Toast.makeText(MainActivity.this, "Jeśli klikniesz w reklamę to dostanę jakiś ułamek grosza na frytki xD", Toast.LENGTH_LONG).show();
                                           Toast.makeText(MainActivity.this, "100% scam no legit", Toast.LENGTH_SHORT).show();
+                                          alreadyShownToasts = true;
                                       }
                                       else{
                                           Toast.makeText(MainActivity.this, "Klikanie w reklamy jest spoko", Toast.LENGTH_SHORT).show();

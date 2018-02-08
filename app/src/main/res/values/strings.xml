@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lewik Soundboard</string>
     <string name="button0">auschwitz</string>
-    <string name="button1">bog_zaplac</string>
+    <string name="button1">bog zapłać</string>
     <string name="button2">dobranoc</string>
     <string name="button3">dobry wieczór</string>
     <string name="button4">dowiesz się w swoim czasie</string>
