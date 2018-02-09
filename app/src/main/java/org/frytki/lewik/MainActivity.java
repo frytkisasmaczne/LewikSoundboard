@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    void onClick (View v){
+    public void onClick (View v){
         mtag = (String) v.getTag();
         p[Integer.parseInt(mtag)] = soundPool.play(i[Integer.parseInt(mtag)],1,1,0,0,1);
     }
